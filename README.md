@@ -23,10 +23,10 @@ We then created interactive visualizations and reports to answer business questi
 
 Here are the specific questions the dashboard answered:
 
--Is our hotel revenue growing by year?
--We have two hotel types so it would be good to segment revenue by hotel type.
--Should we increase our parking lot size? We want to understand if there is a trend is guest with personal cars.
--Focus on average daily rate and guests to explore seasonality.
+- Is our hotel revenue growing by year?
+- We have two hotel types so it would be good to segment revenue by hotel type.
+- Should we increase our parking lot size? We want to understand if there is a trend is guest with personal cars.
+- Focus on average daily rate and guests to explore seasonality.
 
 By answering these questions, the data story can provide stakeholders with insights into the hotel's performance and help them make informed decisions about pricing, parking, and other aspects of the business.
 
